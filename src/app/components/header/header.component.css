@@ -20,4 +20,8 @@ nav {
   border-bottom: 1px solid #e5e5e5;
   min-height: 70px;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
